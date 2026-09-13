@@ -1,0 +1,151 @@
+Initials,Ability Name,Class,Level Req,Rarity,Difficulty,Dungeon,Source URL
+DT,Whirlwind,Warrior,1,Uncommon,DT:Default Item/Easy,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Fireball,Mage,1,Common,DT:Default Item/Easy,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Slam,Warrior,1,Uncommon,DT:Medium,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Blue Fireball,Mage,1,Common,DT:Medium,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Arcane Spray,Mage,1,Uncommon,DT:Hard,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Poison Cloud,Mage,1,Rare,DT:Easy,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT|WO,Battle Shout,Warrior,1,Uncommon,DT:Easy|WO:Easy,Desert Temple|Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT|WO,Innervate,Mage,1,Epic,DT:Hard|WO:Easy,Desert Temple|Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT|WO,Gale Slice,Warrior,30,Uncommon,DT:Hard|WO:Easy,Desert Temple|Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Lightning Strikes,Mage,1,Rare,DT:Medium,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Holy Barrier,Tank,1,Rare,DT:Medium,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Redemption,Healer,1,Uncommon,DT:TBD,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+DT,Holy Circle,Healer,1,Epic,DT:Hard,Desert Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Arcane Barrage,Warrior,30,Uncommon,WO:Easy,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Ice Needles,Mage,30,Uncommon,WO:Easy,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Rejuvenating Spray,Healer,30,Uncommon,WO:Easy,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Fire Bomb,Warrior,40,Uncommon,WO:Medium,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Lightning Beam,Mage,40,Uncommon,WO:Medium,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Taunting Aura,Tank,40,Uncommon,WO:Medium,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Aura of Life,Healer,40,Uncommon,WO:Medium,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Ground Slam,Warrior,50,Uncommon,WO:Hard,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Searing Beam,Mage,50,Uncommon,WO:Hard,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+WO,Piercing Rain,Mage,50,Uncommon,WO:Hard,Winter Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Demonic Strike,Warrior,60,Rare,PI:Insane,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Ghostly Cannon Barrage,Mage,60,Uncommon,PI:Insane,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Guardian Call,Tank,60,Epic,PI:Insane,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Universal Heal,Healer,62,Epic,PI:Insane/Nightmare,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Pulsefire,Mage,62,Rare,PI:Nightmare,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Enchanted Spinning Blades,Warrior,64,Epic,PI:Nightmare,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Phantom Flames,Mage,66,Epic,PI:Nightmare,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+PI,Skull Flames,Mage,66,Epic,PI:Unobtainable,Pirate Island,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Chain Heal,Healer,68,Rare,KC:Insane/Nightmare,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Glacial Blows,Warrior,69,Rare,KC:Insane,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Thunderous Blast,Mage,70,Uncommon,KC:Insane,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Guardian's Blessing,Tank,70,Rare,KC:Insane/Nightmare,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Blade Throw,Warrior,73,Epic,KC:Nightmare,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Void Beam,Mage,73,Rare,KC:Nightmare,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+KC,Electric Boom,Mage,75,Epic,KC:Nightmare,King's Castle,https://dungeonquestroblox.fandom.com/wiki/Ability
+UW,Rending Slice,Warrior,77,Rare,UW:Insane,The Underworld,https://dungeonquestroblox.fandom.com/wiki/Ability
+UW,Infernal Orbs,Mage,77,Uncommon,UW:Insane,The Underworld,https://dungeonquestroblox.fandom.com/wiki/Ability
+UW,Demonic Spikes,Mage,78,Rare,UW:Insane,The Underworld,https://dungeonquestroblox.fandom.com/wiki/Ability
+UW,Infernal Strike,Warrior,83,Epic,UW:Nightmare,The Underworld,https://dungeonquestroblox.fandom.com/wiki/Ability
+UW,Ice Nova,Mage,83,Rare,UW:Nightmare,The Underworld,https://dungeonquestroblox.fandom.com/wiki/Ability
+UW,Ice Totem,Mage,84,Epic,UW:Nightmare,The Underworld,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Berserk,Warrior,90,Epic,SP:Insane/Nightmare,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Lava Lash,Warrior,90,Epic,SP:Insane,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Hand Cannon,Mage,90,Uncommon,SP:Insane,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Earth Clap,Mage,90,Rare,SP:Insane,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Enchanted Shuriken,Mage,90,Epic,SP:Insane,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Guardian Roar,Tank,90,Rare,SP:Insane/Nightmare,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Flame Cyclone,Warrior,93,Epic,SP:Nightmare,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Ghostly Rampage,Mage,93,Rare,SP:Nightmare,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+SP,Illusion Blast,Mage,93,Epic,SP:Nightmare,Samurai Palace,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Runic Strike,Warrior,99,Uncommon,TC:Insane,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Electric Slash,Warrior,99,Rare,TC:Insane,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Earth Kick,Mage,99,Uncommon,TC:Insane,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Tsunami,Mage,99,Uncommon,TC:Insane,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Icicle Barrage,Mage,99,Rare,TC:Insane,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Life Pulse,Healer,99,Rare,TC:Insane/Nightmare,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Blade Revolver,Warrior,104,Epic,TC:Nightmare,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Blade Storm,Warrior,104,Epic,TC:Nightmare,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Forgotten Army,Mage,104,Epic,TC:Nightmare,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+TC,Vortex,Mage,104,Epic,TC:Nightmare,The Canals,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Earth Spikes,Warrior,109,Uncommon,GH:Insane,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Mighty Leap,Warrior,109,Rare,GH:Insane,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Spirit Bomb,Mage,109,Uncommon,GH:Insane,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Smite,Mage,109,Rare,GH:Insane,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Pulse Beam,Warrior,114,Rare,GH:Nightmare,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Phantom Blades,Warrior,114,Epic,GH:Nightmare,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Void Spheres,Mage,114,Rare,GH:Nightmare,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+GH,Phantom Striker,Mage,114,Epic,GH:Nightmare,Ghastly Harbor,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Arrow Rain,Warrior,119,Rare,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Star Barrage,Warrior,119,Rare,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Pulse Waves,Mage,119,Rare,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Starfall,Mage,119,Rare,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Life Dash,Healer,119,Rare,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Explosive Punch,Warrior,120,Epic,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Orb Of Destruction,Mage,120,Epic,SS:Insane,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Chained Energy Blasts,Warrior,124,Rare,SS:Nightmare,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Triple Blade Throw,Warrior,124,Epic,SS:Nightmare,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Overcharge,Mage,124,Rare,SS:Nightmare,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Chromatic Rain,Mage,124,Epic,SS:Nightmare,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Arrow Barrage,Warrior,125,Epic,SS:Nightmare,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+SS,Chain Lightning,Mage,125,Epic,SS:Nightmare,Steampunk Sewers,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Focus Beam,Warrior,135,Epic,OO:Insane,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Explosive Mine,Warrior,135,Epic,OO:Insane,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Ground Stomp,Warrior,135,Epic,OO:Insane,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Mystery Matter,Mage,135,Epic,OO:Insane,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Infernal Blast,Mage,135,Epic,OO:Insane,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Electric Grinder,Warrior,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Twin Slash,Warrior,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Vortex Grenade,Warrior,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Demonic Curse,Mage,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Molten Ball,Mage,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Electric Field,Mage,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+OO,Energy Orb,Mage,140,Epic,OO:Nightmare,Orbital Outpost,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Inner Rage,Warrior,150,Epic,VC:Insane,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Molten Shards,Warrior,150,Epic,VC:Insane,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Inner Focus,Mage,150,Epic,VC:Insane,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Lava Beam Orb,Mage,150,Epic,VC:Insane,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC|AT|EF|NL,Enhanced Inner Rage,Warrior,150,Legendary,VC:Nightmare|AT:Nightmare|EF:Nightmare|NL:Nightmare,Volcanic Chambers|Aquatic Temple|Enchanted Forest|Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC|AT|EF|NL,Enhanced Inner Focus,Mage,150,Legendary,VC:Nightmare|AT:Nightmare|EF:Nightmare|NL:Nightmare,Volcanic Chambers|Aquatic Temple|Enchanted Forest|Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Blade Fall,Warrior,155,Epic,VC:Nightmare,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Lava Barrage,Warrior,155,Epic,VC:Nightmare,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Amethyst Blast,Mage,155,Epic,VC:Nightmare,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+VC,Lava Cage,Mage,155,Epic,VC:Nightmare,Volcanic Chambers,https://dungeonquestroblox.fandom.com/wiki/Ability
+AT,Spear Strike,Warrior,160,Rare,AT:Insane,Aquatic Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+AT,Water Orb,Mage,160,Rare,AT:Insane,Aquatic Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+AT,Ice Barrage,Warrior,165,Epic,AT:Nightmare,Aquatic Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+AT,Ice Crash,Warrior,165,Epic,AT:Nightmare,Aquatic Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+AT,Aquatic Smite,Mage,165,Epic,AT:Nightmare,Aquatic Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+AT,Ice Spikes,Mage,165,Epic,AT:Nightmare,Aquatic Temple,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Piercing Roots,Warrior,170,Rare,EF:Insane,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Fungal Poison,Mage,170,Rare,EF:Insane,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Revitalize,Healer,170,Epic,EF:Insane,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Crystalline Cannon,Warrior,175,Epic,EF:Nightmare,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Wind Blast,Warrior,175,Epic,EF:Nightmare,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Agony Orbs,Mage,175,Epic,EF:Nightmare,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+EF,Lightning Burst,Mage,175,Epic,EF:Nightmare,Enchanted Forest,https://dungeonquestroblox.fandom.com/wiki/Ability
+NL,Frost Cone,Warrior,180,Rare,NL:Insane,Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+NL,Flame Strike,Mage,180,Rare,NL:Insane,Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+NL,Flame Shuriken,Warrior,185,Epic,NL:Nightmare,Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+NL,Gale Barrage,Warrior,185,Epic,NL:Nightmare,Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+NL,Geyser,Mage,185,Epic,NL:Nightmare,Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+NL,Soul Drain,Mage,185,Epic,NL:Nightmare,Northern Lands,https://dungeonquestroblox.fandom.com/wiki/Ability
+GS,Solar Beam,Warrior,190,Epic,GS:Insane,Gilded Skies,https://dungeonquestroblox.fandom.com/wiki/Ability
+GS,Jade Roller,Mage,190,Epic,GS:Insane,Gilded Skies,https://dungeonquestroblox.fandom.com/wiki/Ability
+GS,Blade Barrage,Warrior,195,Epic,GS:Nightmare,Gilded Skies,https://dungeonquestroblox.fandom.com/wiki/Ability
+GS,God Spear,Warrior,195,Epic,GS:Nightmare,Gilded Skies,https://dungeonquestroblox.fandom.com/wiki/Ability
+GS,Amethyst Beams,Mage,195,Epic,GS:Nightmare,Gilded Skies,https://dungeonquestroblox.fandom.com/wiki/Ability
+GS,Jade Rain,Mage,195,Epic,GS:Nightmare,Gilded Skies,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Triple Quake,Warrior,200,Epic,YP:Insane,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Chain Storm,Mage,200,Epic,YP:Insane,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Spirit Link,Healer,200,Epic,YP:Insane,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Kunai Knives,Warrior,205,Epic,YP:Nightmare,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Spinning Blade Smash,Warrior,205,Epic,YP:Nightmare,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Yokai Transformation,Warrior,205,Epic,YP:Nightmare,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Void Dragon,Mage,205,Epic,YP:Nightmare,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Rift Beam,Mage,205,Epic,YP:Nightmare,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+YP,Hands Of Death,Mage,205,Epic,YP:Nightmare,Yokai Peak,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Shatterstrike,Warrior,210,Epic,AV:Insane,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Voidflames,Mage,210,Epic,AV:Insane,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Vengeful Taunt,Tank,210,Epic,AV:Insane,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Cleansing Beam,Tank/Healer,210,Epic,AV:Insane,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Mighty Cleave,Warrior,215,Epic,AV:Nightmare,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Sacrificial Orbs,Mage,215,Epic,AV:Nightmare,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Blood Pact,Tank,215,Epic,AV:Nightmare,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Arcane Amplifier,Tank/Healer,215,Epic,AV:Nightmare,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Gravity Leap,Warrior,210,Legendary,AV:Insane/Nightmare,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
+AV,Unstable Warp,Mage,210,Legendary,AV:Insane/Nightmare,Abyssal Void,https://dungeonquestroblox.fandom.com/wiki/Ability
